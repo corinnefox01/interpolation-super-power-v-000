@@ -8,5 +8,3 @@ colors = ["Red", "orange", "yellow", "green", "blue", "indigo", "violet"]
   puts "I: #{indigo[5]}"
   puts "V: #{violet[6]}"
 end
-
-
