@@ -3,5 +3,3 @@ def display_rainbow (colors)
 end
 
 colors = ["R", "O" ,"Y", "G", "B", "I", "V"]
-
-
